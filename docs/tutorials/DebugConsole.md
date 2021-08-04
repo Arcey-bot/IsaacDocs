@@ -142,7 +142,10 @@ costumetest 33
 Gives Isaac a number of totally random costumes, without having the associated items.
 
 ### **restart**
-Same as holding R. Resets the game back to the beginning of a new run. listcollectibles Prints a list of all items in your possession, and how many of each
+Same as holding R. Resets the game back to the beginning of a new run. 
+
+### **listcollectibles**
+Prints a list of all items in your possession, and how many of each
 
 ### **repeat**
 
